@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/pmenon25/pmenon25.github.io.git/static/css/main.bdbda6bc.chunk.css",
+    "main.js": "/pmenon25/pmenon25.github.io.git/static/js/main.f476daab.chunk.js",
+    "main.js.map": "/pmenon25/pmenon25.github.io.git/static/js/main.f476daab.chunk.js.map",
+    "runtime-main.js": "/pmenon25/pmenon25.github.io.git/static/js/runtime-main.b3adff7b.js",
+    "runtime-main.js.map": "/pmenon25/pmenon25.github.io.git/static/js/runtime-main.b3adff7b.js.map",
+    "static/js/2.fc6c50bc.chunk.js": "/pmenon25/pmenon25.github.io.git/static/js/2.fc6c50bc.chunk.js",
+    "static/js/2.fc6c50bc.chunk.js.map": "/pmenon25/pmenon25.github.io.git/static/js/2.fc6c50bc.chunk.js.map",
+    "static/js/3.89fe71e4.chunk.js": "/pmenon25/pmenon25.github.io.git/static/js/3.89fe71e4.chunk.js",
+    "static/js/3.89fe71e4.chunk.js.map": "/pmenon25/pmenon25.github.io.git/static/js/3.89fe71e4.chunk.js.map",
+    "index.html": "/pmenon25/pmenon25.github.io.git/index.html",
+    "static/css/main.bdbda6bc.chunk.css.map": "/pmenon25/pmenon25.github.io.git/static/css/main.bdbda6bc.chunk.css.map",
+    "static/js/2.fc6c50bc.chunk.js.LICENSE.txt": "/pmenon25/pmenon25.github.io.git/static/js/2.fc6c50bc.chunk.js.LICENSE.txt",
+    "static/media/Arboretum.75c3f505.png": "/pmenon25/pmenon25.github.io.git/static/media/Arboretum.75c3f505.png",
+    "static/media/Pen-n-Paper.b563111a.png": "/pmenon25/pmenon25.github.io.git/static/media/Pen-n-Paper.b563111a.png",
+    "static/media/Poornima_Resume.290cceec.pdf": "/pmenon25/pmenon25.github.io.git/static/media/Poornima_Resume.290cceec.pdf",
+    "static/media/Virtual-art-gallery.7e4a2fd9.png": "/pmenon25/pmenon25.github.io.git/static/media/Virtual-art-gallery.7e4a2fd9.png",
+    "static/media/logo.8ff15331.jpg": "/pmenon25/pmenon25.github.io.git/static/media/logo.8ff15331.jpg",
+    "static/media/mypic.8ca98d83.JPG": "/pmenon25/pmenon25.github.io.git/static/media/mypic.8ca98d83.JPG",
+    "static/media/postgresql.2d3248f6.png": "/pmenon25/pmenon25.github.io.git/static/media/postgresql.2d3248f6.png",
+    "static/media/rhymetime.a75abdcc.png": "/pmenon25/pmenon25.github.io.git/static/media/rhymetime.a75abdcc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3adff7b.js",
+    "static/js/2.fc6c50bc.chunk.js",
+    "static/css/main.bdbda6bc.chunk.css",
+    "static/js/main.f476daab.chunk.js"
+  ]
+}
